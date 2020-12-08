@@ -1,29 +1,22 @@
 {
   "files": {
-    "main.css": "/car-prods/static/css/main.4843e03b.chunk.css",
-    "main.js": "/car-prods/static/js/main.9d6dd352.chunk.js",
-    "main.js.map": "/car-prods/static/js/main.9d6dd352.chunk.js.map",
+    "main.css": "/car-prods/static/css/main.a61555de.chunk.css",
+    "main.js": "/car-prods/static/js/main.0475dc6b.chunk.js",
+    "main.js.map": "/car-prods/static/js/main.0475dc6b.chunk.js.map",
     "runtime-main.js": "/car-prods/static/js/runtime-main.6a11ac94.js",
     "runtime-main.js.map": "/car-prods/static/js/runtime-main.6a11ac94.js.map",
-    "static/js/2.72d00340.chunk.js": "/car-prods/static/js/2.72d00340.chunk.js",
-    "static/js/2.72d00340.chunk.js.map": "/car-prods/static/js/2.72d00340.chunk.js.map",
+    "static/js/2.76853080.chunk.js": "/car-prods/static/js/2.76853080.chunk.js",
+    "static/js/2.76853080.chunk.js.map": "/car-prods/static/js/2.76853080.chunk.js.map",
     "index.html": "/car-prods/index.html",
-    "static/css/main.4843e03b.chunk.css.map": "/car-prods/static/css/main.4843e03b.chunk.css.map",
-    "static/js/2.72d00340.chunk.js.LICENSE.txt": "/car-prods/static/js/2.72d00340.chunk.js.LICENSE.txt",
-    "static/media/4.dbbe511c.png": "/car-prods/static/media/4.dbbe511c.png",
+    "static/css/main.a61555de.chunk.css.map": "/car-prods/static/css/main.a61555de.chunk.css.map",
+    "static/js/2.76853080.chunk.js.LICENSE.txt": "/car-prods/static/js/2.76853080.chunk.js.LICENSE.txt",
     "static/media/Ice1.aeabf3d9.jpg": "/car-prods/static/media/Ice1.aeabf3d9.jpg",
-    "static/media/Ice2.a65fb84c.jpeg": "/car-prods/static/media/Ice2.a65fb84c.jpeg",
-    "static/media/disp1.fc6de79b.jpg": "/car-prods/static/media/disp1.fc6de79b.jpg",
-    "static/media/img1.70a494a4.jpg": "/car-prods/static/media/img1.70a494a4.jpg",
-    "static/media/img2.e6cd24c4.jpg": "/car-prods/static/media/img2.e6cd24c4.jpg",
-    "static/media/img3.532b376b.jpg": "/car-prods/static/media/img3.532b376b.jpg",
-    "static/media/img4.76321957.jpg": "/car-prods/static/media/img4.76321957.jpg",
     "static/media/styles.css": "/car-prods/static/media/noise.afb129a4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6a11ac94.js",
-    "static/js/2.72d00340.chunk.js",
-    "static/css/main.4843e03b.chunk.css",
-    "static/js/main.9d6dd352.chunk.js"
+    "static/js/2.76853080.chunk.js",
+    "static/css/main.a61555de.chunk.css",
+    "static/js/main.0475dc6b.chunk.js"
   ]
 }

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/car-prods/static/css/main.4843e03b.chunk.css",
-    "main.js": "/car-prods/static/js/main.8c6fd92b.chunk.js",
-    "main.js.map": "/car-prods/static/js/main.8c6fd92b.chunk.js.map",
+    "main.js": "/car-prods/static/js/main.ea3f938c.chunk.js",
+    "main.js.map": "/car-prods/static/js/main.ea3f938c.chunk.js.map",
     "runtime-main.js": "/car-prods/static/js/runtime-main.6a11ac94.js",
     "runtime-main.js.map": "/car-prods/static/js/runtime-main.6a11ac94.js.map",
     "static/js/2.492ca53d.chunk.js": "/car-prods/static/js/2.492ca53d.chunk.js",
@@ -13,6 +13,7 @@
     "static/media/4.dbbe511c.png": "/car-prods/static/media/4.dbbe511c.png",
     "static/media/Ice1.aeabf3d9.jpg": "/car-prods/static/media/Ice1.aeabf3d9.jpg",
     "static/media/Ice2.a65fb84c.jpeg": "/car-prods/static/media/Ice2.a65fb84c.jpeg",
+    "static/media/disp1.fc6de79b.jpg": "/car-prods/static/media/disp1.fc6de79b.jpg",
     "static/media/img1.70a494a4.jpg": "/car-prods/static/media/img1.70a494a4.jpg",
     "static/media/img2.e6cd24c4.jpg": "/car-prods/static/media/img2.e6cd24c4.jpg",
     "static/media/img3.532b376b.jpg": "/car-prods/static/media/img3.532b376b.jpg",
@@ -23,6 +24,6 @@
     "static/js/runtime-main.6a11ac94.js",
     "static/js/2.492ca53d.chunk.js",
     "static/css/main.4843e03b.chunk.css",
-    "static/js/main.8c6fd92b.chunk.js"
+    "static/js/main.ea3f938c.chunk.js"
   ]
 }
